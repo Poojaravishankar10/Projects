@@ -2,7 +2,7 @@
 """
 Created on Thu Sep 22 20:04:21 2016
 
-@author: anant
+
 
 spell checker module
 
