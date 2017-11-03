@@ -2,7 +2,6 @@
 """
 Created on Fri Sep 23 01:16:53 2016
 
-@author: anant
 """
 import file_reader;
 import nltk;
