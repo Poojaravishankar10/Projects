@@ -19,7 +19,7 @@ all_folders_to_train = ["atheism","autos","graphics","medicine","motorcycles","r
 
 #probability_table = (dict, dict, dict, dict, dict, dict, dict)
 probability_table = [dict() for x in range(7)]
-#path ="/Users/Deekshith/Desktop/Python/python_scripts/data_corrected/";
+#path ="/Users/Pooja/Desktop/Python/python_scripts/data_corrected/";
 
 
 
