@@ -61,10 +61,10 @@ def topic_classifier(path, ngrams):
         output = "Id,Prediction";
         #classification_path = path+"/classification task"+"/test_for_classification/";
         #classification_path = path+"/classification task/"+all_folders_to_train[count]+"/dev_test/"
-        #"/Users/Deekshith/Desktop/Python/python_scripts/data_corrected/classification task/";
+        #"/Users/Pooja/Desktop/Python/python_scripts/data_corrected/classification task/";
         while( not input_path_is_correct ):    
             print("\n Enter the folder path on which you want the topic classifier to run\n");
-            classification_path = input("Enter the abosulute path (eg /Users/Deekshith/data corrected/classification task/test_for_classification/)\n\n");
+            classification_path = input("Enter the abosulute path (eg /Users/Pooja/data corrected/classification task/test_for_classification/)\n\n");
             print("\nTopic classification will run on :", classification_path, "\n");             
             confirm = input("If that's right enter yes else no: ");
             if(confirm.lower() =="yes"):input_path_is_correct = 1
