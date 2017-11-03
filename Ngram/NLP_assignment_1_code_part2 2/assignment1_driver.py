@@ -22,7 +22,7 @@ while( not input_path_is_correct ):
     confirm = input("If that's right enter yes else no: "); #"yes"
     if(confirm.lower() =="yes"):input_path_is_correct = 1
 
-#path ="/Users/Deekshith/Desktop/Python/python_scripts/data_corrected";
+#path ="/Users/Pooja/Desktop/Python/python_scripts/data_corrected";
 
 
 folders_to_train = ["graphics","medicine","motorcycles","religion","space","atheism","autos"];
