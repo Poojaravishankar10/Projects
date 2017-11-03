@@ -2,7 +2,6 @@
 """
 Created on Thu Sep 22 22:27:25 2016
 
-@author: Deekshith
 """
 import tokenizer;
 import math;
