@@ -108,8 +108,8 @@ elif (choice == 2) :
     #print(completed_topic_classification);
 else:
     #print ("\nIt was chose to do spell check\n")
-    #path = input("\n\nInput path to data corrected folder: "); #"/Users/anant/Downloads/"
-    #path = "/Users/anant/pythonWD/data_corrected 2/";
+    #path = input("\n\nInput path to data corrected folder: "); #"/Users/Pooja/Downloads/"
+    #path = "/Users/Pooja/pythonWD/data_corrected 2/";
     path = path+"/";
     print("spell check is being performed at:", path,"\n if that is not right please rerun\n" );
     spell_checker.do_spell_correction(path, 0) #Last arguement is to run on dev set
