@@ -2,7 +2,6 @@
 """
 Created on Thu Sep 22 20:59:39 2016
 
-@author: Deekshith
 """
 
 import file_reader;
