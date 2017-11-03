@@ -11,7 +11,7 @@ import random_sent_gen;
 input_path_is_correct = 0;
 
 while( not input_path_is_correct ):
-    path = input("\n\nInput path to data_corrected folder: "); #"/Users/anant/Downloads/"
+    path = input("\n\nInput path to data_corrected folder: "); #"/Users/Pooja/Downloads/"
     path += "data_corrected";
     print("\nwill start reading at:", path, "\n");    
     confirm = input("If that's right enter yes else no: "); #"yes"
