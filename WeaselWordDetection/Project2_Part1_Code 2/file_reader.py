@@ -2,8 +2,6 @@
 """
 Created on Sun Sep 11 13:43:30 2016
 
-@author: anant
-
 Read all files 
 
 """
