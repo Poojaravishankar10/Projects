@@ -12,13 +12,13 @@ How to run the code :
 Console Output :
 ================
 
-[nltk_data] Downloading package punkt to /Users/Deekshith/nltk_data...
+[nltk_data] Downloading package punkt to /Users/Pooja/nltk_data...
 [nltk_data]   Package punkt is already up-to-date!
 
 
-Input path to data_corrected folder: /Users/Deekshith/Desktop/Python/python_scripts/
+Input path to data_corrected folder: /Users/Pooja/Desktop/Python/python_scripts/
 
-will start reading at: /Users/Deekshith/Desktop/Python/python_scripts/data_corrected 
+will start reading at: /Users/Pooja/Desktop/Python/python_scripts/data_corrected 
 
 If that's right enter yes else no: yes
 
